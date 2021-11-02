@@ -1,0 +1,59 @@
+﻿
+@model IQueryable<demo.Models.EmployeeVM>
+
+@{
+    ViewBag.Title = "Employee";
+
+}
+
+
+<br />
+<center><h1>Employee List</h1></center>
+
+<br />
+<a asp-controller="Employee" asp-action="Create" class="btn btn-secondary">Add Employee</a>
+<br />
+<br />
+
+
+<table class="table table-bordered table-striped text-center table-hover js-basic-example dataTable">
+
+    <thead>
+        <tr>
+            <th class="text-center">Id</th>
+            <th class="text-center">First Name</th>
+            <th class="text-center">Last Name</th>
+            <th class="text-center">Salary</th>
+            <th class="text-center">Edit</th>
+            <th class="text-center">Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+
+            <td style="font-size:16px">@item.id</td>
+            <td style="font-size:16px">@item.firstName</td>
+            <td style="font-size:16px">@item.lastName</td>
+            <td style="font-size:16px">@item.salary</td>
+            <td>
+                <a asp-controller="Employee"
+                   asp-action="Edit" asp-route-id="@item.id" class="btn btn-success">Edit</a>
+            </td>
+            <td>
+                <a asp-controller="Employee"
+                   asp-action="Delete" asp-route-id="@item.id" class="btn btn-danger">Delete</a>
+            </td>
+
+        </tr>
+        }
+
+    </tbody>
+
+
+</table>
+
+<br/>
+<br />
+<a type="button" class="btn btn-secondary" href="\"> Bcak To Home</a>

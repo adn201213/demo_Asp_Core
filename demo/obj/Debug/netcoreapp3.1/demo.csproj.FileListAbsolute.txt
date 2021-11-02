@@ -1,0 +1,270 @@
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\demo.Views.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\demo.Views.pdb
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.AssemblyReference.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.RazorAssemblyInfo.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.RazorAssemblyInfo.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\staticwebassets\demo.StaticWebAssets.Manifest.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\staticwebassets\demo.StaticWebAssets.xml
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\demo.styles.css
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.TagHelpers.input.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.TagHelpers.output.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.RazorCoreGenerate.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.RazorTargetAssemblyInfo.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.RazorTargetAssemblyInfo.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.Views.pdb
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.CopyComplete
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\FDM_Group\demo\demo\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\demo.Views.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\demo.Views.pdb
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\git projects\demo_Asp_Core\demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.csproj.AssemblyReference.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.RazorAssemblyInfo.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.RazorAssemblyInfo.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\staticwebassets\demo.StaticWebAssets.Manifest.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\staticwebassets\demo.StaticWebAssets.xml
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\demo.styles.css
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.TagHelpers.input.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.TagHelpers.output.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.RazorCoreGenerate.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.RazorTargetAssemblyInfo.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.RazorTargetAssemblyInfo.cs
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.Views.pdb
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
+C:\git projects\demo_Asp_Core\demo\obj\Debug\netcoreapp3.1\demo.csproj.CopyComplete
